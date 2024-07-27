@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #e9e5dc !important;
+}
+
+* {
+  box-sizing: 16px;
+  font-style: normal;
+  font-weight: 200 900;
+  font-stretch: 100%;
+  font-display: swap;
+}
+
+a {
+  text-decoration: none;
+}

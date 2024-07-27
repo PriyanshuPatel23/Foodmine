@@ -1,0 +1,20 @@
+.container {
+  position: relative;
+  margin-bottom: 0.5rem;
+  border-radius: 0.7rem;
+  padding-top: 0.3rem;
+  width: 100%;
+  text-align: left;
+  background-color: #3a4d39;
+}
+
+label {
+  text-align: left;
+  font-size: 0.9rem;
+  color: #ece3ce;
+  font-size: 1rem;
+}
+
+.content {
+  align-items: center;
+}
